@@ -1,5 +1,5 @@
 import { EXPERIENCES } from "../constants"
-import technologies from "./technologies"
+import technologies from "./Technologies"
 import { motion } from "framer-motion"
 
 const Experience = () => {
